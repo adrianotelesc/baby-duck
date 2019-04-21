@@ -1,6 +1,6 @@
 # Baby Duck in OpenGL 
 
-This is a college work introduced in CG discipline (Computer Graphics) whose objective was model something in OpenGL.
+This is a college work introduced in CG discipline (Computer Graphics) whose objective was model something with OpenGL.
 
 ![Running...](https://i.imgur.com/mCrn6AI.gif)
 
